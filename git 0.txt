@@ -1,3 +1,20 @@
+
 print ('Olga Macko')
 print ('ku-ku vsem!')
+
 print ('Margarita Laitane')
+
+
+print ('Ņikita Prževosskis')
+
+
+print ('Oļegs Fjodorovs')
+
+Rita Pupiņa
+
+print ('Armands Turčinovičs')
+print ('ku-ku visiem!')
+
+
+
+
