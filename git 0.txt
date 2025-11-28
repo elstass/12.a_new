@@ -1,2 +1,3 @@
 print ('Olga Macko')
 print ('ku-ku vsem!')
+Rita Pupiņa
